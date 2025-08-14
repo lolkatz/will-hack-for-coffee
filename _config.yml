@@ -31,6 +31,8 @@ github_username:  lolKatz
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - googlea5e7d1adba1d2ce1.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
